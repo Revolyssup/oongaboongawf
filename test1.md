@@ -1,7 +1,7 @@
  
   ## Test status for Istio
-  ### Status: []
-  ### Run on: ""
-  ### K8sVersion: "v1.20.1"
-  ### "istio" Version: "1.12.1"
+  ### Status: 
+  ### Run on: 
+  ### K8sVersion: 
+  ###  Version: 
 
