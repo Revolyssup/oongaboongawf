@@ -4,11 +4,11 @@
     "service_mesh_name": "istio",
     "service_mesh_version": "1.12.1",
     "adapter_version": "edge",
-    "runon": "Sat Dec 11 08:32:29 UTC 2021"
+    "runon": "Sat Dec 11 08:36:06 UTC 2021"
   },
   "pods_status": {
-    "istiod": "Running",
-    "istio-egressgateway": "Running",
-    "istio-ingressgateway": "Running"
+    "istiod": "Not Running",
+    "istio-egressgateway": "Not Running",
+    "istio-ingressgateway": "Not Running"
   }
 }
