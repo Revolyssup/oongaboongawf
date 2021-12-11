@@ -4,7 +4,7 @@
     "service_mesh_name": "istio",
     "service_mesh_version": "1.12.1",
     "adapter_version": "edge",
-    "runon": "Sat Dec 11 07:29:52 UTC 2021"
+    "runon": "Sat Dec 11 07:31:13 UTC 2021"
   },
   "pods_status": {
     "istiod": "Running",
