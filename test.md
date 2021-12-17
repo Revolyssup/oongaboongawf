@@ -15,7 +15,7 @@ overall-status: "Passing"
 
 timestamp: "this"
 meshery-component: meshery-istio
-meshery-component-version: edge
+meshery-component-version: stable-1.0.0
 meshery-server-version: v0.5.61
 k8s-distro: minikube
 k8s-version: "v1.20.1"
