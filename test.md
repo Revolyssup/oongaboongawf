@@ -1,5 +1,4 @@
-
-  ---
+---
   meshery-component: meshery-istio
   meshery-component-version: edge
   meshery-server-version: v0.5.61
@@ -8,9 +7,8 @@
   service-mesh: istio
   service-mesh-version: "1.12.1"
   tests:
-    istiod: "Not Running"
-    istio-egressgateway: 
-    istio-ingressgateway:  
-  overall-status: 
+    istiod: "Running"
+    istio-egressgateway: "Running"
+    istio-ingressgateway:  "Running"
+  overall-status: "Passing"
   ---
-
